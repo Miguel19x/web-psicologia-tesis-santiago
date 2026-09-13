@@ -46,7 +46,7 @@ Si deseas clonar y ejecutar este repositorio en tu entorno local:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/psicologia-page.git
+   git clone https://github.com/Miguel19x/web-psicologia-tesis-santiago.git
    cd psicologia-page
    ```
 
